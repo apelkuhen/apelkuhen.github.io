@@ -92,7 +92,7 @@ url("fonts/miso-light-webfont.woff2") format("woff2");
 .blocks {
 	display: flex;
 	align-items: center;
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-bottom: 20px;
 }
 .ba-cup_bronze, .ba-cup_silver {
